@@ -8,5 +8,13 @@
     border-color: black; */
     border: 3px solid black;
     margin: 20px;
-    
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
