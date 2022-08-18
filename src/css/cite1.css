@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.promo {
+    height: 800px;
+    background: url('../img/BG/main_bg.jpg') center center/cover no-repeat;
+    padding: 39px 0 62px 0;
+}
+
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+
+
+}
+
+.logo .logo_img {
+    display: block;
+    margin: 0 auto;
+}
+
+.logo .logo_text {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 14px;
+}
