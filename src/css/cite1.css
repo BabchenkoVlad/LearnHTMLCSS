@@ -275,14 +275,11 @@ h2.title {
     height: 174px;
 }
 .present .present_text {
-    width: 1161px;
     min-height: 113px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 30px;
     line-height: 43px;
-    display: block;
-    align-items: center;
     text-align: center;
     color: #252525;
     margin-top: 45px;
