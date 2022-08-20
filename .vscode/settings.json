@@ -1,4 +1,4 @@
 {
-    "ecsstractor_port.bem_nesting": true,
+    "ecsstractor_port.bem_nesting": false,
     "ecsstractor_port.comment_style": "scss"
 }
