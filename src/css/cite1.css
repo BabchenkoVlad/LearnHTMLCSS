@@ -194,7 +194,7 @@ h2.title {
 .optimization .optimization_header {
     margin-left: 391px;
     font-family: 'Roboto';
-    font-weight: 700;
+    font-weight: 900;
     font-size: 29px;
     display: flex;
     align-items: center;
@@ -213,7 +213,7 @@ h2.title {
 }
 
 .optimization .optimization_text span {
-    font-weight: 700;
+    font-weight: 900;
     font-family: "Roboto - Bold";
 }
 
